@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning JavaScript, Node.JS, SQL, Express.JS, React, Reduct, TDD, HTML & CSS at Codecademy : https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
 - 💞️ I’m looking to find a traineehsip / junior position as a full-stack or back-end developer. Or an entry freelance assingment where i can apply and practice my new found skills.
 - 📫 Find me on Linkedin: https://www.linkedin.com/in/michielroukens/
+- Check my portfolio: https://arejasportfolio.surge.sh
+
+- Currently working on ShredFish - a Local Surf Forecasting app
 
 <!---
 arejasverduras/arejasverduras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
