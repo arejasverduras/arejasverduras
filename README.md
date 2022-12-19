@@ -6,9 +6,9 @@
 - Check my portfolio: https://arejasportfolio.surge.sh
 
 - Currently working on:
--- Silvester Zwemschool React Remake (Professional)
--- ShredFish - a Local Surf Forecasting app 
--- Koekboek - Personal Random Recipehs (Personal)
+- - Silvester Zwemschool React Remake (Professional)
+- - ShredFish - a Local Surf Forecasting app 
+- - Koekboek - Personal Random Recipehs (Personal)
 
 
 <!---
