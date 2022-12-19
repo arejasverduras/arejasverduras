@@ -5,7 +5,11 @@
 - 📫 Find me on Linkedin: https://www.linkedin.com/in/michielroukens/
 - Check my portfolio: https://arejasportfolio.surge.sh
 
-- Currently working on ShredFish - a Local Surf Forecasting app
+- Currently working on:
+-- Silvester Zwemschool React Remake (Professional)
+-- ShredFish - a Local Surf Forecasting app 
+-- Koekboek - Personal Random Recipehs (Personal)
+
 
 <!---
 arejasverduras/arejasverduras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
