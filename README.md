@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Next.JS, Headless CMS, TypeScript, JavaScript, Node.JS, SQL, Express.JS, React, Redux, TDD, HTML & CSS at Codecademy : https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
 - 💞️ I’m looking to find a traineehsip / junior position as a full-stack or front-end developer. Or an entry freelance assingment where i can apply and practice my new found skills.
 - 📫 Find me on Linkedin: https://www.linkedin.com/in/michielroukens/
-- Check my portfolio: https://arejasportfolio.surge.sh
+- Check my portfolio: 
+https://next-portfolio-remake.vercel.app/
 
 - Currently working on:
 - - Silvester Zwemschool React Remake (Professional)
