@@ -1,15 +1,24 @@
-- 👋 Hi, I’m @arejasverduras
-- 👀 I am a Full-Stack Developer, Calisthenics Athlete, Surfer & Guitar player
-- 🌱 I’m currently learning Next.JS, Headless CMS, TypeScript, JavaScript, Node.JS, SQL, Express.JS, React, Redux, TDD, HTML & CSS at Codecademy : https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
-- 💞️ I’m looking to find a position as a full-stack or front-end developer. Or an entry freelance assingment where i can apply and practice my new found skills.
-- 📫 Find me on Linkedin: https://www.linkedin.com/in/michielroukens/
-- Check my portfolio: 
+👋 Hi, I’m Michiel @ arejasverduras
+
+👀 I’m a Full-Stack Developer, calisthenics athlete, surfer, skateboarder and guitar player.
+
+🌱 I’m continously expanding my skills in full-stack architecture, product engineering, prompt engineering, cybersecurity and AI-assisted development while building and deploying real-world applications.
+
+💞️ I’m currently available for focused part-time, remote or freelance opportunities as a full-stack or front-end developer.
+ Working mostly with TypeScript, React, Next.js, Node.js and PostgreSQL. 
+
+📫 Find me on LinkedIn:  
+https://www.linkedin.com/in/michielroukens
+
+🌐 Check out my portfolio:  
 https://marejas.dev
 
-- Currently working on:
+Currently working on:
 
-- - Daily Recovery Coach - TBI Recovery Coach app
-- - MyPower - Easily create & share calisthenics workouts with your friends or clients. https://mypower.vercel.app
+**Daily Recovery Coach** — A private full-stack app for personalized TBI recovery planning and activity coaching.
+
+**MyPower** — Create, organize and share calisthenics workouts and programs that others can perform while tracking their progress.  
+https://mypower.vercel.app
 
 
 <!---
