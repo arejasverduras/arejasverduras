@@ -4,12 +4,12 @@
 - 💞️ I’m looking to find a traineehsip / junior position as a full-stack or front-end developer. Or an entry freelance assingment where i can apply and practice my new found skills.
 - 📫 Find me on Linkedin: https://www.linkedin.com/in/michielroukens/
 - Check my portfolio: 
-https://next-portfolio-remake.vercel.app/
+https://marejas.dev
 
 - Currently working on:
 
-- - ShredFish - a Local Surf Forecasting app (Personal) https://shredfish.surge.sh
-- - Koekboek - Personal Random Recipehs (Personal) https://koekboek.surge.sh
+- - Daily Recovery Coach - TBI Recovery Coach app
+- - MyPower - Easily create & share calisthenics workouts with your friends or clients.
 
 
 <!---
