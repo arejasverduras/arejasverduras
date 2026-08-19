@@ -17,7 +17,7 @@ Currently working on:
 
 **Daily Recovery Coach** — A private full-stack app for personalized TBI recovery planning and activity coaching.
 
-**MyPower** — Create, organize and share calisthenics workouts and programs that others can perform while tracking their progress.  
+**MyPower** — Create, organize and share calisthenics workouts and programs easily that others can perform while tracking their progress.  
 https://mypower.vercel.app
 
 
